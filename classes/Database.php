@@ -1,4 +1,5 @@
 <?php
+ //this is a test for our commit
 class Database {
     private $host;
     private $user;
